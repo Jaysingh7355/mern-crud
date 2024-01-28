@@ -1,0 +1,16 @@
+Rest api - json
+get/users - html rnader.
+get /api/user -list all user - done
+get/api/user1 -get the user whit id1 -done
+Get/api/user2 - get the user whit the id 1-Done
+daynamic path prametters
+Get/Api/Users/:id
+:id -> variable |daynamic
+
+Post /api/users -Create - create new user
+
+
+
+Patch /api/User/id - Edit the User whit id 1
+
+Delete /api/users/ - Delete the user whit id1
